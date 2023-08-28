@@ -1,0 +1,15 @@
+C:\Git\ibis\Flutter\userPortal\Server\IN2.UserPortal\IN2.UserPortal.Core\bin\Release\net6.0\IN2.UserPortal.Core.deps.json
+C:\Git\ibis\Flutter\userPortal\Server\IN2.UserPortal\IN2.UserPortal.Core\bin\Release\net6.0\IN2.UserPortal.Core.dll
+C:\Git\ibis\Flutter\userPortal\Server\IN2.UserPortal\IN2.UserPortal.Core\bin\Release\net6.0\IN2.UserPortal.Core.pdb
+C:\Git\ibis\Flutter\userPortal\Server\IN2.UserPortal\IN2.UserPortal.Core\bin\Release\net6.0\IN2.UserPortal.Persistance.dll
+C:\Git\ibis\Flutter\userPortal\Server\IN2.UserPortal\IN2.UserPortal.Core\bin\Release\net6.0\IN2.UserPortal.Persistance.pdb
+C:\Git\ibis\Flutter\userPortal\Server\IN2.UserPortal\IN2.UserPortal.Core\obj\Release\net6.0\IN2.UserPortal.Core.csproj.AssemblyReference.cache
+C:\Git\ibis\Flutter\userPortal\Server\IN2.UserPortal\IN2.UserPortal.Core\obj\Release\net6.0\IN2.UserPortal.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\ibis\Flutter\userPortal\Server\IN2.UserPortal\IN2.UserPortal.Core\obj\Release\net6.0\IN2.UserPortal.Core.AssemblyInfoInputs.cache
+C:\Git\ibis\Flutter\userPortal\Server\IN2.UserPortal\IN2.UserPortal.Core\obj\Release\net6.0\IN2.UserPortal.Core.AssemblyInfo.cs
+C:\Git\ibis\Flutter\userPortal\Server\IN2.UserPortal\IN2.UserPortal.Core\obj\Release\net6.0\IN2.UserPortal.Core.csproj.CoreCompileInputs.cache
+C:\Git\ibis\Flutter\userPortal\Server\IN2.UserPortal\IN2.UserPortal.Core\obj\Release\net6.0\IN2.UserPortal.Core.csproj.CopyComplete
+C:\Git\ibis\Flutter\userPortal\Server\IN2.UserPortal\IN2.UserPortal.Core\obj\Release\net6.0\IN2.UserPortal.Core.dll
+C:\Git\ibis\Flutter\userPortal\Server\IN2.UserPortal\IN2.UserPortal.Core\obj\Release\net6.0\refint\IN2.UserPortal.Core.dll
+C:\Git\ibis\Flutter\userPortal\Server\IN2.UserPortal\IN2.UserPortal.Core\obj\Release\net6.0\IN2.UserPortal.Core.pdb
+C:\Git\ibis\Flutter\userPortal\Server\IN2.UserPortal\IN2.UserPortal.Core\obj\Release\net6.0\ref\IN2.UserPortal.Core.dll

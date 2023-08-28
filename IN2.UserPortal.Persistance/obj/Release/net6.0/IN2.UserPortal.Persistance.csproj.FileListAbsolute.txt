@@ -1,0 +1,12 @@
+C:\Git\ibis\Flutter\userPortal\Server\IN2.UserPortal\IN2.UserPortal.Persistance\bin\Release\net6.0\IN2.UserPortal.Persistance.deps.json
+C:\Git\ibis\Flutter\userPortal\Server\IN2.UserPortal\IN2.UserPortal.Persistance\bin\Release\net6.0\IN2.UserPortal.Persistance.dll
+C:\Git\ibis\Flutter\userPortal\Server\IN2.UserPortal\IN2.UserPortal.Persistance\bin\Release\net6.0\IN2.UserPortal.Persistance.pdb
+C:\Git\ibis\Flutter\userPortal\Server\IN2.UserPortal\IN2.UserPortal.Persistance\obj\Release\net6.0\IN2.UserPortal.Persistance.csproj.AssemblyReference.cache
+C:\Git\ibis\Flutter\userPortal\Server\IN2.UserPortal\IN2.UserPortal.Persistance\obj\Release\net6.0\IN2.UserPortal.Persistance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\ibis\Flutter\userPortal\Server\IN2.UserPortal\IN2.UserPortal.Persistance\obj\Release\net6.0\IN2.UserPortal.Persistance.AssemblyInfoInputs.cache
+C:\Git\ibis\Flutter\userPortal\Server\IN2.UserPortal\IN2.UserPortal.Persistance\obj\Release\net6.0\IN2.UserPortal.Persistance.AssemblyInfo.cs
+C:\Git\ibis\Flutter\userPortal\Server\IN2.UserPortal\IN2.UserPortal.Persistance\obj\Release\net6.0\IN2.UserPortal.Persistance.csproj.CoreCompileInputs.cache
+C:\Git\ibis\Flutter\userPortal\Server\IN2.UserPortal\IN2.UserPortal.Persistance\obj\Release\net6.0\IN2.UserPortal.Persistance.dll
+C:\Git\ibis\Flutter\userPortal\Server\IN2.UserPortal\IN2.UserPortal.Persistance\obj\Release\net6.0\refint\IN2.UserPortal.Persistance.dll
+C:\Git\ibis\Flutter\userPortal\Server\IN2.UserPortal\IN2.UserPortal.Persistance\obj\Release\net6.0\IN2.UserPortal.Persistance.pdb
+C:\Git\ibis\Flutter\userPortal\Server\IN2.UserPortal\IN2.UserPortal.Persistance\obj\Release\net6.0\ref\IN2.UserPortal.Persistance.dll

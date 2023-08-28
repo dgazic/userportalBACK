@@ -1,0 +1,25 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace IN2.UserPortal.Core.Models.DtoModels
+{
+    public record UserDto
+    {
+        public int Id{ get; init; }
+
+        public string? LastName { get; init; }
+
+        public string? FirstName { get; init; }
+
+        public int? UserRoleId { get; init; }
+    
+        public int? Activated { get; init; }
+
+        public string? PhoneNumber { get; init; }
+
+
+    }
+}
